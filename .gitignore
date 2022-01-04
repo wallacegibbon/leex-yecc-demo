@@ -1,0 +1,6 @@
+demo_parser.erl
+demo_scanner.erl
+*.beam
+*.dump
+*.swp
+*~
